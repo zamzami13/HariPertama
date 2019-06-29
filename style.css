@@ -1,0 +1,11 @@
+body    {
+    background-color: cornflowerblue;
+}
+
+.container  {
+    background-color: white;
+}
+
+.container-fluid    {background-color: tomato;}
+
+.container-footer   {background-color: rgb(127, 127, 184);}
